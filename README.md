@@ -9,7 +9,7 @@
 
 I'm
 Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python, Golang), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Cassandra,Mysql), CI/CD(Docker, Kubernetes) 
+I have completed my MCA in 2014 from LUCKNOW. I have 8.5 years of experience working as a Software engineer.I have a wide range of skills that include back-end development using technologies (Dot Net, C#,Nodejs), front-end development (HTML, CSS, Javascript,bootstrap, Reactjs), database(SqlServer,postgresql and MongoDB). 
 
 
 ![Visitor Count](https://profile-counter.glitch.me/BNSaxena/count.svg)
