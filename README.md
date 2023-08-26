@@ -2,8 +2,8 @@
 ## Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Bramha-red)](https://www.youtube.com/channel/UCjtiu2EgQrTUbDi8wwXUg5w)
-[![Linkedin Badge](https://img.shields.io/badge/-Bramha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Bramha--01629954/)](https://www.linkedin.com/in/Bramha--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Bramha-green)](https://www.akash)
+[![Linkedin Badge](https://img.shields.io/badge/-Bramha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Bramha--01629954/)](https://in.linkedin.com/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Bramha-green)](https://www.Bramha)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Bramha-yellow)](https://stackoverflow.com/users/22383405/bramhanand-saxena)
 
 
